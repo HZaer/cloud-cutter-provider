@@ -1,6 +1,5 @@
 package com.cut.cloud;
 
-import com.cut.cloud.controller.CutCloudController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

@@ -4,6 +4,7 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cut-cloud-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cut-cloud-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cut-cloud-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cut-cloud-war" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cut-cloud-web" charset="UTF-8" />
   </component>
