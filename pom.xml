@@ -14,6 +14,9 @@
     </modules>
     <packaging>pom</packaging>
 
+    <properties>
+        <cut.cloud.version>1.0-SNAPSHOT</cut.cloud.version>
+    </properties>
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
@@ -55,19 +58,19 @@
             <dependency>
                 <artifactId>cut-cloud-web</artifactId>
                 <groupId>com.cut.cloud</groupId>
-                <version>1.0-SNAPSHOT</version>
+                <version>${cut.cloud.version}</version>
             </dependency>
 
             <dependency>
                 <artifactId>cut-cloud-api</artifactId>
                 <groupId>com.cut.cloud</groupId>
-                <version>1.0-SNAPSHOT</version>
+                <version>${cut.cloud.version}</version>
             </dependency>
 
             <dependency>
                 <artifactId>cut-cloud-core</artifactId>
                 <groupId>com.cut.cloud</groupId>
-                <version>1.0-SNAPSHOT</version>
+                <version>${cut.cloud.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

@@ -11,4 +11,10 @@
 
     <artifactId>cut-cloud-web</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.cut.cloud</groupId>
+            <artifactId>cut-cloud-api</artifactId>
+        </dependency>
+    </dependencies>
 </project>
